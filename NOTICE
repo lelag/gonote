@@ -1,0 +1,27 @@
+gonote — Go client and CLI for PRONOTE
+SPDX-License-Identifier: GPL-3.0-or-later
+
+Protocol reference and adapted response fixtures:
+Pawnote.js — LiterateInk
+https://github.com/LiterateInk/Pawnote.js
+Revision e157c5b (2026-01-11), GPL-3.0-or-later.
+The testdata files are reduced versions with synthetic identifiers and
+teacher names, adapted from Pawnote's
+tests/api/PageCahierDeTexte/students_1.json and students_2.json, and
+tests/api/PageEmploiDuTemps/students_1.json.
+
+Additional protocol reference:
+Blocksnote — Raphaël SCHRÖDER / BlocksHub
+https://github.com/BlocksHub/Blocksnote
+Revision dae2b4c (2026-06-22).
+Its LICENSE file states MIT; its package.json states GPL-3.0.
+No Blocksnote source files are bundled in this project.
+
+SSO protocol reference:
+pronotepy — Copyright (c) 2020 bain3, MIT License.
+https://github.com/bain3/pronotepy
+The ECLAT-BFC provider configuration, EduConnect SAML form relay and PRONOTE ENT
+challenge were studied in ent/ent.py, ent/generic_func.py and clients.py.
+No Python source files are bundled or executed in this project.
+
+PRONOTE is an INDEX ÉDUCATION product. This project is unaffiliated.

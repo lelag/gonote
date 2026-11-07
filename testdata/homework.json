@@ -1,0 +1,99 @@
+{
+  "ListeTravauxAFaire": {
+    "_T": 24,
+    "V": [
+      {
+        "N": "fixture-1",
+        "descriptif": {
+          "_T": 21,
+          "V": "<div>Exercices n°2 à 4</div>"
+        },
+        "avecMiseEnForme": false,
+        "PourLe": {
+          "_T": 7,
+          "V": "08/09/2025"
+        },
+        "avecRendu": true,
+        "genreRendu": 2,
+        "peuRendre": true,
+        "TAFFait": false,
+        "niveauDifficulte": 0,
+        "duree": 0,
+        "cahierDeTextes": {
+          "_T": 24,
+          "V": {
+            "N": "fixture-2"
+          }
+        },
+        "cours": {
+          "_T": 24,
+          "V": {
+            "N": "fixture-3"
+          }
+        },
+        "DonneLe": {
+          "_T": 7,
+          "V": "04/09/2025"
+        },
+        "Matiere": {
+          "_T": 24,
+          "V": {
+            "L": "MATHÉMATIQUES",
+            "N": "fixture-4"
+          }
+        },
+        "CouleurFond": "#FF8040",
+        "nomPublic": "3A",
+        "ListeThemes": {
+          "_T": 24,
+          "V": []
+        },
+        "libelleCBTheme": "Uniquement les thèmes associés aux matières du travail à faire",
+        "ListePieceJointe": {
+          "_T": 24,
+          "V": []
+        }
+      },
+      {
+        "N": "fixture-5",
+        "descriptif": {
+          "_T": 21,
+          "V": "<div>Exercices n°2 à 4</div>"
+        },
+        "avecMiseEnForme": false,
+        "PourLe": {
+          "_T": 7,
+          "V": "09/09/2025"
+        },
+        "avecRendu": true,
+        "genreRendu": 2,
+        "peuRendre": true,
+        "TAFFait": false,
+        "niveauDifficulte": 0,
+        "duree": 0,
+        "DonneLe": {
+          "_T": 7,
+          "V": "08/09/2025"
+        },
+        "Matiere": {
+          "_T": 24,
+          "V": {
+            "L": "MATHÉMATIQUES",
+            "N": "fixture-4"
+          }
+        },
+        "CouleurFond": "#FF8040",
+        "nomPublic": "3A",
+        "ListeThemes": {
+          "_T": 24,
+          "V": []
+        },
+        "libelleCBTheme": "Uniquement les thèmes associés aux matières du travail à faire",
+        "ListePieceJointe": {
+          "_T": 24,
+          "V": []
+        }
+      }
+    ]
+  }
+}

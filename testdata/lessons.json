@@ -1,0 +1,169 @@
+{
+  "ListeCahierDeTextes": {
+    "_T": 24,
+    "V": [
+      {
+        "N": "fixture-1",
+        "cours": {
+          "_T": 24,
+          "V": {
+            "N": "fixture-2"
+          }
+        },
+        "verrouille": false,
+        "listeGroupes": {
+          "_T": 24,
+          "V": []
+        },
+        "Matiere": {
+          "_T": 24,
+          "V": {
+            "L": "ANGLAIS LV1",
+            "N": "fixture-3"
+          }
+        },
+        "CouleurFond": "#E0E5A4",
+        "listeProfesseurs": {
+          "_T": 24,
+          "V": [
+            {
+              "L": "Enseignant de démonstration",
+              "N": "fixture-4"
+            }
+          ]
+        },
+        "Date": {
+          "_T": 7,
+          "V": "09/09/2025 14:30:00"
+        },
+        "DateFin": {
+          "_T": 7,
+          "V": "09/09/2025 15:30:00"
+        },
+        "listeContenus": {
+          "_T": 24,
+          "V": [
+            {
+              "L": "Comprendre un message oral en continu sur un point d’intérêt personnel",
+              "N": "fixture-5",
+              "descriptif": {
+                "_T": 21,
+                "V": ""
+              },
+              "categorie": {
+                "_T": 24,
+                "V": {
+                  "L": "Cours",
+                  "N": "fixture-6",
+                  "G": 1,
+                  "libelleIcone": ""
+                }
+              },
+              "ListeThemes": {
+                "_T": 24,
+                "V": []
+              },
+              "libelleCBTheme": "Uniquement les thèmes associés aux matières du contenu",
+              "parcoursEducatif": -1,
+              "ListePieceJointe": {
+                "_T": 24,
+                "V": []
+              },
+              "training": {
+                "_T": 24,
+                "V": {
+                  "ListeExecutionsQCM": []
+                }
+              }
+            }
+          ]
+        },
+        "listeElementsProgrammeCDT": {
+          "_T": 24,
+          "V": []
+        }
+      },
+      {
+        "N": "fixture-7",
+        "cours": {
+          "_T": 24,
+          "V": {
+            "N": "fixture-8"
+          }
+        },
+        "verrouille": false,
+        "listeGroupes": {
+          "_T": 24,
+          "V": []
+        },
+        "Matiere": {
+          "_T": 24,
+          "V": {
+            "L": "ANGLAIS LV1",
+            "N": "fixture-3"
+          }
+        },
+        "CouleurFond": "#E0E5A4",
+        "listeProfesseurs": {
+          "_T": 24,
+          "V": [
+            {
+              "L": "Enseignant de démonstration",
+              "N": "fixture-4"
+            }
+          ]
+        },
+        "Date": {
+          "_T": 7,
+          "V": "12/09/2025 09:00:00"
+        },
+        "DateFin": {
+          "_T": 7,
+          "V": "12/09/2025 10:00:00"
+        },
+        "listeContenus": {
+          "_T": 24,
+          "V": [
+            {
+              "L": "Courants et influences interculturelles",
+              "N": "fixture-9",
+              "descriptif": {
+                "_T": 21,
+                "V": "Courants et influences interculturelles <br/> Les langages artistiques <br/> Les œuvres patrimoniales et contemporaines."
+              },
+              "categorie": {
+                "_T": 24,
+                "V": {
+                  "L": "Cours",
+                  "N": "fixture-6",
+                  "G": 1,
+                  "libelleIcone": ""
+                }
+              },
+              "ListeThemes": {
+                "_T": 24,
+                "V": []
+              },
+              "libelleCBTheme": "Uniquement les thèmes associés aux matières du contenu",
+              "parcoursEducatif": -1,
+              "ListePieceJointe": {
+                "_T": 24,
+                "V": []
+              },
+              "training": {
+                "_T": 24,
+                "V": {
+                  "ListeExecutionsQCM": []
+                }
+              }
+            }
+          ]
+        },
+        "listeElementsProgrammeCDT": {
+          "_T": 24,
+          "V": []
+        }
+      }
+    ]
+  }
+}

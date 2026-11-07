@@ -1,0 +1,26 @@
+# Build outputs
+/bin/
+/dist/
+*.test
+*.exe
+coverage.out
+*.prof
+
+# Local credentials and school data
+.env
+.env.*
+!.env.example
+compte.json
+/sessions/
+/identifiants/
+/cache/
+*.har
+*.log
+*.pem
+*.key
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+*~

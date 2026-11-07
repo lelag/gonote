@@ -1,0 +1,95 @@
+{
+  "ListeCours": [
+    {
+      "N": "fixture-1",
+      "G": 0,
+      "P": 132,
+      "place": 11,
+      "duree": 2,
+      "DateDuCours": {
+        "_T": 7,
+        "V": "17/11/2025 13:30:00"
+      },
+      "CouleurFond": "#2338BB",
+      "ListeContenus": {
+        "_T": 24,
+        "V": [
+          {
+            "L": "FRANCAIS",
+            "N": "fixture-2",
+            "G": 16
+          },
+          {
+            "G": 3,
+            "L": "Enseignant de démonstration"
+          }
+        ]
+      },
+      "AvecTafPublie": false
+    },
+    {
+      "N": "fixture-3",
+      "G": 0,
+      "P": 135,
+      "place": 13,
+      "duree": 2,
+      "DateDuCours": {
+        "_T": 7,
+        "V": "17/11/2025 14:30:00"
+      },
+      "CouleurFond": "#2BD5F3",
+      "ListeContenus": {
+        "_T": 24,
+        "V": [
+          {
+            "L": "HISTOIRE-GÉOGRAPHIE",
+            "N": "fixture-4",
+            "G": 16
+          },
+          {
+            "G": 3,
+            "L": "Enseignant de démonstration"
+          },
+          {
+            "L": "109",
+            "N": "fixture-5",
+            "G": 17
+          }
+        ]
+      },
+      "AvecTafPublie": false
+    },
+    {
+      "N": "fixture-6",
+      "G": 0,
+      "P": 125,
+      "place": 15,
+      "duree": 2,
+      "DateDuCours": {
+        "_T": 7,
+        "V": "17/11/2025 15:30:00"
+      },
+      "CouleurFond": "#173ED9",
+      "ListeContenus": {
+        "_T": 24,
+        "V": [
+          {
+            "L": "ARTS PLASTIQUES",
+            "N": "fixture-7",
+            "G": 16
+          },
+          {
+            "G": 3,
+            "L": "Enseignant de démonstration"
+          },
+          {
+            "L": "205",
+            "N": "fixture-8",
+            "G": 17
+          }
+        ]
+      },
+      "AvecTafPublie": false
+    }
+  ]
+}
